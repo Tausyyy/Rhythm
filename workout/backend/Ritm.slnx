@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ritm.Api/Ritm.Api.csproj" />
+  <Project Path="Ritm.Data/Ritm.Data.csproj" />
+  <Project Path="Ritm.Services/Ritm.Services.csproj" />
+  <Project Path="Ritm.Tests/Ritm.Tests.csproj" />
+</Solution>

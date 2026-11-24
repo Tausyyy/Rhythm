@@ -1,0 +1,15 @@
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\bin\Debug\net10.0\Ritm.Services.deps.json
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\bin\Debug\net10.0\Ritm.Services.dll
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\bin\Debug\net10.0\Ritm.Services.pdb
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\bin\Debug\net10.0\Ritm.Data.dll
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\bin\Debug\net10.0\Ritm.Data.pdb
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\Ritm.Services.csproj.AssemblyReference.cache
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\Ritm.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\Ritm.Services.AssemblyInfoInputs.cache
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\Ritm.Services.AssemblyInfo.cs
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\Ritm.Services.csproj.CoreCompileInputs.cache
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\Ritm.Ser.E829D3D2.Up2Date
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\Ritm.Services.dll
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\refint\Ritm.Services.dll
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\Ritm.Services.pdb
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Services\obj\Debug\net10.0\ref\Ritm.Services.dll

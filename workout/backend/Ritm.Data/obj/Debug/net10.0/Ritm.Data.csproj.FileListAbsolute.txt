@@ -1,0 +1,12 @@
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\obj\Debug\net10.0\Ritm.Data.csproj.AssemblyReference.cache
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\obj\Debug\net10.0\Ritm.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\obj\Debug\net10.0\Ritm.Data.AssemblyInfoInputs.cache
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\obj\Debug\net10.0\Ritm.Data.AssemblyInfo.cs
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\obj\Debug\net10.0\Ritm.Data.csproj.CoreCompileInputs.cache
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\bin\Debug\net10.0\Ritm.Data.deps.json
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\bin\Debug\net10.0\Ritm.Data.dll
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\bin\Debug\net10.0\Ritm.Data.pdb
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\obj\Debug\net10.0\Ritm.Data.dll
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\obj\Debug\net10.0\refint\Ritm.Data.dll
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\obj\Debug\net10.0\Ritm.Data.pdb
+C:\Users\Diffusal\Desktop\workout programs\workout\backend\Ritm.Data\obj\Debug\net10.0\ref\Ritm.Data.dll
